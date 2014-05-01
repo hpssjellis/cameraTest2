@@ -6,7 +6,7 @@
         id        = "com.yourwebsite.camera"
         version   = "0.0.7">
 
-    <name>j-camera-pgb-helloworld</name>
+    <name>Camera Test2</name>
 
 
   <!--  <preference name="permissions"                value="none"/>  -->
